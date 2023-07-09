@@ -1,0 +1,27 @@
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .form-container, .table-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  label, input[type="text"], input[type="email"], select {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
